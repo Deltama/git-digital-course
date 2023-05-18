@@ -4,4 +4,4 @@
 * comando git push (origin main)
 * comando git pull (melhor usar o fetch e o diff primeiro)
 * comando git fetch (git diff origin/main)
-* comando git commit (-m "coment")((fazer antes do push e depois do add))
+* comando git commit (-m "comment")((fazer antes do push e depois do add))
