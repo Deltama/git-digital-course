@@ -1,2 +1,3 @@
-# git-digital-course
-Curso digital de git
+# Curso Digital: Git/Versionamento
+
+# Salvando modificações no Git
